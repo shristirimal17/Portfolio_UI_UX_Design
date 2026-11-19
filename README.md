@@ -20,3 +20,19 @@ https://www.figma.com/design/UeDBx8jotXBHPoVzizbhmx/Ashok-Jaiswal?m=auto&t=bqMg2
 - Projects
 - Gallery
 - Contact
+
+## Portfolio Design Preview
+Home
+![Portfolio Preview](Home.png)
+
+About
+![Portfolio Preview](About.png)
+
+Projects
+![Portfolio Preview](Projects.png)
+
+Gallery
+![Portfolio Preview](Gallery.png)
+
+Connect
+![Portfolio Preview](Connect.png)
